@@ -10,6 +10,36 @@ A list of tech tools and their tradeoffs and why you should use them. Bolded ent
 - **React Native - You want to support cross platform development on iOS and Android**
 - **Swift/SwiftUI - You want to focus only on iOS, get native performance and access to newest iOS features**
 
+### Web Frameworks
+- Gatsby - ???
+- Next.js - ???
+- **ReactJS - ???**
+- Vue.js - ???
+
 ## Backend
 
+### Web Frameworks
+- Akka - ???
+- Django - ???
+- **Express - ???**
+- **FastAPI - ???**
+- Flask - ???
+- Gin - ???
+- Java Spring - ???
+- Laravel - ???
+- Ruby on Rails - ???
+
+### API Protocol
+- GraphQL - ???
+- gRPC - ???
+- REST - ???
+
 ## Database
+
+### SQL
+- MySQL - ???
+- PostgreSQL - ???
+
+### NoSQL
+- DynamoDB - ???
+- MongoDB - ???
