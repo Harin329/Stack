@@ -30,9 +30,9 @@ A list of tech tools and their tradeoffs and why you should use them. Bolded ent
 - Ruby on Rails - ???
 
 ### API Protocol
-- GraphQL - ???
-- gRPC - ???
-- REST - ???
+- GraphQL - You want to have better endpoint management, aggregate multiple data sources or have bandwidth concerns
+- gRPC - You have many low latency connections and want a small bandwidth small latency interface
+- REST - You want a familiar API interface that is quick to build
 
 ## Database
 
